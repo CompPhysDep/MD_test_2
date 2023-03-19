@@ -1,1 +1,1 @@
-This repository contains auxillary programs which help to do any pre/postproceccing work at simulations.
+This repository contains auxillary programs for pre/postproceccing work at simulations.
